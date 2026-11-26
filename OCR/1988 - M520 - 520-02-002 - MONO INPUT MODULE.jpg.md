@@ -25,7 +25,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (359, 20)–(432, 35) mm: WBS WARD-BECK Sybtems · M5zoA
 - **Wiring (first pass):** 137 connected wire groups from 998 runs, 2 dotted junctions; labelled ends: 59 mm → WBS, MONO; 57 mm → 25725; 48 mm → 25725; 42 mm → Dov; 34 mm → 16725
 
-Every curve, box, word and wire group: [1988 - M520 - 520-02-002 - MONO INPUT MODULE (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-002%20-%20MONO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1988 - M520 - 520-02-002 - MONO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 520-02-002 - MONO INPUT MODULE (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-002%20-%20MONO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1988 - M520 - 520-02-002 - MONO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

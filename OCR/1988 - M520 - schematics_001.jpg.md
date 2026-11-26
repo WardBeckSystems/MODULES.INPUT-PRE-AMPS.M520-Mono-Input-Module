@@ -12,6 +12,21 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Size:** 2,556,878 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)
+- **Ink extent:** 25–431 mm across, 1–279 mm up
+- **Outlines:** line 1,409 rings, 10,025 straight (14,013 mm) / 2,060 curved (2,475 mm); text 203 rings, 1,141 straight (1,056 mm) / 302 curved (375 mm); tb 2 rings, 40 straight (95.7 mm) / 2 curved (2.9 mm)
+- **Centre lines:** 9,558 paths (368 closed); straight 8,837 mm, curved 150 mm; horizontal 2,998 mm, vertical 2,608 mm, diagonal 3,231 mm
+- **Circles and arcs:** 6 circles, 11 arcs; largest r 3.2 @ (86.3, 54.0), r 3.2 @ (101.2, 60.2), r 3.1 @ (101.4, 88.8), r 3.1 @ (85.9, 95.3)
+- **Closed boxes:** 2
+- **Dots (junctions):** 4
+- **Words (OCR):** 26 in 23 lines: PURER · MicropHIONE · 60-12 · ECJALIZEL · 6no · 757 · hTELOS · IC/CINe · coxtrol · L4b3s · '0.56100 · 0.ViCO
+- **Title block:** (341, 32)–(430, 48) mm: WBS WARD-BECK SYSTEMS
+- **Wiring (first pass):** 112 connected wire groups from 882 runs, 4 dotted junctions; labelled ends: 542 mm → 60-12; 133 mm → 25625, loVIco; 123 mm → 6no; 97 mm → '0.56100, 25625, loVIco, '8715; 94 mm → '0.56100, 25625
+
+Every curve, box, word and wire group: [1988 - M520 - schematics_001 (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20schematics_001%20%28traced%29.json) (the CAD file: `1988 - M520 - schematics_001 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 8 words corrected)

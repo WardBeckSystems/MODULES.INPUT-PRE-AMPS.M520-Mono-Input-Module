@@ -33,7 +33,7 @@ Functional block diagram of the M520 mono input module, scanned rotated.
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 196 connected wire groups from 815 runs
 
-Every curve, box, word and wire group: [19xx - 520-01-001 - MONO INPUT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20520-01-001%20-%20MONO%20INPUT%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - 520-01-001 - MONO INPUT MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 520-01-001 - MONO INPUT MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20520-01-001%20-%20MONO%20INPUT%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - 520-01-001 - MONO INPUT MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

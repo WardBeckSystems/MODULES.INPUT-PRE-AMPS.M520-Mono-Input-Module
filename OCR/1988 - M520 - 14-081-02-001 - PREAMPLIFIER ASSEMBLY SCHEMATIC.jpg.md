@@ -24,7 +24,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (339, 48)–(431, 65) mm: WBS · WAAD-BeCK BYBTEMB
 - **Wiring (first pass):** 55 connected wire groups from 390 runs; labelled ends: 278 mm → Sw3, SWZ, 33/10, R3R; 184 mm → I5k, 138, 22p, 220; 170 mm → 68/10 LF3SGN, 068, R2O, 33k; 169 mm → 68/10; 110 mm → R14, 56k, R1S, 7AA
 
-Every curve, box, word and wire group: [1988 - M520 - 14-081-02-001 - PREAMPLIFIER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%2014-081-02-001%20-%20PREAMPLIFIER%20ASSEMBLY%20SCHEMATIC%20(traced).json) (the CAD file: `1988 - M520 - 14-081-02-001 - PREAMPLIFIER ASSEMBLY SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 14-081-02-001 - PREAMPLIFIER ASSEMBLY SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%2014-081-02-001%20-%20PREAMPLIFIER%20ASSEMBLY%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1988 - M520 - 14-081-02-001 - PREAMPLIFIER ASSEMBLY SCHEMATIC (traced).dxf`).
 
 ## Full text
 

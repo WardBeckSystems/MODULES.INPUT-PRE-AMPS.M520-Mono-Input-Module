@@ -25,7 +25,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (340, 46)–(432, 63) mm: WBS WAAD-BECK SYSTEMS
 - **Wiring (first pass):** 173 connected wire groups from 1,066 runs; labelled ends: 514 mm → JOSTFACZ; 184 mm → 5578,, RW?; 41 mm → JOSTFACZ; 37 mm → RW?; 13 mm → 2 ENSE
 
-Every curve, box, word and wire group: [1988 - M520 - 520-02-001 - MONO INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-001%20-%20MONO%20INPUT%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1988 - M520 - 520-02-001 - MONO INPUT MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 520-02-001 - MONO INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-001%20-%20MONO%20INPUT%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1988 - M520 - 520-02-001 - MONO INPUT MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

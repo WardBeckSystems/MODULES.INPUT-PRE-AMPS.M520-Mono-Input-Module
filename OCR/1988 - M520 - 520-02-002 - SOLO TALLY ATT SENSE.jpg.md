@@ -25,7 +25,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (370, 19)–(432, 40) mm: Issu]DAte · WBSS WARD-BeCK BysteMS
 - **Wiring (first pass):** 101 connected wire groups from 769 runs, 2 dotted junctions; labelled ends: 1004 mm → Mic/LINA; 857 mm → 43; 196 mm → 43, 1035; 85 mm → WBSS, 520-02-0o2/3; 60 mm → 8289
 
-Every curve, box, word and wire group: [1988 - M520 - 520-02-002 - SOLO TALLY ATT SENSE (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE%20(traced).json) (the CAD file: `1988 - M520 - 520-02-002 - SOLO TALLY ATT SENSE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 520-02-002 - SOLO TALLY ATT SENSE (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-002%20-%20SOLO%20TALLY%20ATT%20SENSE%20%28traced%29.json) (the CAD file: `1988 - M520 - 520-02-002 - SOLO TALLY ATT SENSE (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (340, 32)–(429, 48) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 135 connected wire groups from 673 runs; labelled ends: 54 mm → PRE POST; 8 mm → AGAT; 7 mm → 4ict; 7 mm → Kight; 7 mm → RchI
 
-Every curve, box, word and wire group: [1988 - M520 - B 520-01-001 - M520 MONO INPUT MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%20520-01-001%20-%20M520%20MONO%20INPUT%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `1988 - M520 - B 520-01-001 - M520 MONO INPUT MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - B 520-01-001 - M520 MONO INPUT MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%20520-01-001%20-%20M520%20MONO%20INPUT%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `1988 - M520 - B 520-01-001 - M520 MONO INPUT MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

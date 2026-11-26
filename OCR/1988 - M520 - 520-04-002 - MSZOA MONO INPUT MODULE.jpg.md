@@ -23,7 +23,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Words (OCR):** 12 in 11 lines: PEAR · SENS · AuX · AUX 2 · WBS · WARD-Beck systemS · MSZOA · Mone · LAScuT · SCALE · 520 C4-002
 - **Title block:** (358, 1)–(432, 34) mm: WBS · WARD-Beck systemS · MSZOA · Mone · LAScuT · SCALE · 520 C4-002
 
-Every curve, box, word and wire group: [1988 - M520 - 520-04-002 - MSZOA MONO INPUT MODULE (traced).json](../MECHANICAL/1988%20-%20M520%20-%20520-04-002%20-%20MSZOA%20MONO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1988 - M520 - 520-04-002 - MSZOA MONO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 520-04-002 - MSZOA MONO INPUT MODULE (traced).json](../MECHANICAL/1988%20-%20M520%20-%20520-04-002%20-%20MSZOA%20MONO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1988 - M520 - 520-04-002 - MSZOA MONO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

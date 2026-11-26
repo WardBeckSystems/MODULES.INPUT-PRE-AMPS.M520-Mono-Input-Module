@@ -23,7 +23,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 96 connected wire groups from 640 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1988 - M520 - B 520-02-001-3 - M520 - MONO INPUT MODULE - SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%20520-02-001-3%20-%20M520%20-%20MONO%20INPUT%20MODULE%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1988 - M520 - B 520-02-001-3 - M520 - MONO INPUT MODULE - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - B 520-02-001-3 - M520 - MONO INPUT MODULE - SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%20520-02-001-3%20-%20M520%20-%20MONO%20INPUT%20MODULE%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1988 - M520 - B 520-02-001-3 - M520 - MONO INPUT MODULE - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

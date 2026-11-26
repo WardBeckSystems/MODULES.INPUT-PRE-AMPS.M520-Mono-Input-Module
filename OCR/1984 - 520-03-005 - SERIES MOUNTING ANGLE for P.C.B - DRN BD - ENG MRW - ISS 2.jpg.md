@@ -35,7 +35,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Words (OCR):** 59 in 46 lines: NOTES: · A0O DIA 2 PLACES · A00 DIA · TOLERANCES · csk 829 TO · XX · 015 · 44472 DIA · XXX · 005 · 2 PLACES · REMOVE BURRS 6 SHARP EDGES
 - **Title block:** (279, 11)–(432, 79) mm: 2501 · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: · BD 83 · ENG_ MPw · M520 series · Pc B. · CKD: · MOUNTING ANGLE For · APP · SCALE · 520-05-005 · ISSUE · 242X
 
-Every curve, box, word and wire group: [1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2 (traced).json](../MECHANICAL/1984%20-%20520-03-005%20-%20SERIES%20MOUNTING%20ANGLE%20for%20P.C.B%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%202%20(traced).json) (the CAD file: `1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2 (traced).json](../MECHANICAL/1984%20-%20520-03-005%20-%20SERIES%20MOUNTING%20ANGLE%20for%20P.C.B%20-%20DRN%20BD%20-%20ENG%20MRW%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2 (traced).dxf`).
 
 ## Full text
 

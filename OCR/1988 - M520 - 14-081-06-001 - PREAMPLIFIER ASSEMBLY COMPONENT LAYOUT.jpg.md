@@ -20,7 +20,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Circles and arcs:** 8 circles, 0 arcs; largest r 3.0 @ (302.4, 137.5), r 3.0 @ (302.3, 163.8), r 1.6 @ (360.8, 35.5), r 1.6 @ (371.3, 35.4)
 - **Closed boxes:** 13
 
-Every curve, box, word and wire group: [1988 - M520 - 14-081-06-001 - PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/1988%20-%20M520%20-%2014-081-06-001%20-%20PREAMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1988 - M520 - 14-081-06-001 - PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 14-081-06-001 - PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).json](../SCHEMATICS/1988%20-%20M520%20-%2014-081-06-001%20-%20PREAMPLIFIER%20ASSEMBLY%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1988 - M520 - 14-081-06-001 - PREAMPLIFIER ASSEMBLY COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 108 connected wire groups from 671 runs, 2 dotted junctions
 
-Every curve, box, word and wire group: [1988 - M520 - 520-02-001 - CONTROL DATA SENSE MIC-LINE ASSEMBLY (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-001%20-%20CONTROL%20DATA%20SENSE%20MIC-LINE%20ASSEMBLY%20(traced).json) (the CAD file: `1988 - M520 - 520-02-001 - CONTROL DATA SENSE MIC-LINE ASSEMBLY (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 520-02-001 - CONTROL DATA SENSE MIC-LINE ASSEMBLY (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-02-001%20-%20CONTROL%20DATA%20SENSE%20MIC-LINE%20ASSEMBLY%20%28traced%29.json) (the CAD file: `1988 - M520 - 520-02-001 - CONTROL DATA SENSE MIC-LINE ASSEMBLY (traced).dxf`).
 
 ## Full text
 

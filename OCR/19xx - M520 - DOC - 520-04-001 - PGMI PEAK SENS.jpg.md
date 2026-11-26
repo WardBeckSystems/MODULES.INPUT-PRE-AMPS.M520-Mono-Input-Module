@@ -24,7 +24,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 35 in 32 lines: WBS · PAN · PGMi · PEAK · SENS · AUX · PRE · PST · AUX 3 · PRE · PST · AUX 2
 - **Title block:** (15, 0)–(186, 429) mm: WBS · PAN · PGMi · PEAK · SENS · AUX · PRE · PST · AUX 3 · PRE · PST · AUX 2 · PRE · PST · AUX · PRE PST · ISSUE DATE · RE VISION · WBS WAAD-BECK sybter · ch · ON · DRN: LP · M520 · ENG · Mrwj · MONO 
 
-Every curve, box, word and wire group: [19xx - M520 - DOC - 520-04-001 - PGMI PEAK SENS (traced).json](../MECHANICAL/19xx%20-%20M520%20-%20DOC%20-%20520-04-001%20-%20PGMI%20PEAK%20SENS%20(traced).json) (the CAD file: `19xx - M520 - DOC - 520-04-001 - PGMI PEAK SENS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M520 - DOC - 520-04-001 - PGMI PEAK SENS (traced).json](../MECHANICAL/19xx%20-%20M520%20-%20DOC%20-%20520-04-001%20-%20PGMI%20PEAK%20SENS%20%28traced%29.json) (the CAD file: `19xx - M520 - DOC - 520-04-001 - PGMI PEAK SENS (traced).dxf`).
 
 ## Full text
 

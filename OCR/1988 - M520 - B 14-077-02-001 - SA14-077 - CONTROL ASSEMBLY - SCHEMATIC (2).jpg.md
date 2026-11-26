@@ -25,7 +25,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (339, 46)–(431, 63) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 105 connected wire groups from 1,109 runs, 3 dotted junctions; labelled ends: 2592 mm → io0; 400 mm → 74i4n, Xok; 249 mm → 0 |6; 249 mm → 0 |6; 102 mm → 14, Ln1o
 
-Every curve, box, word and wire group: [1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (2) (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%2014-077-02-001%20-%20SA14-077%20-%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20(2)%20(traced).json) (the CAD file: `1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (2) (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (2) (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%2014-077-02-001%20-%20SA14-077%20-%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20%282%29%20%28traced%29.json) (the CAD file: `1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (2) (traced).dxf`).
 
 ## Full text
 

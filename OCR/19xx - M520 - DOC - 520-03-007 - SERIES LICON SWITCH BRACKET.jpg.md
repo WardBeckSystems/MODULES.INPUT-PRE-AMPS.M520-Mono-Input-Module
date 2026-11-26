@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 56 in 50 lines: '050 · 225 · -187 · 850 · 400 · NOTES: · TOLERANCES · XX · 015 · XXX · 005 · REMOVE BURRS SHARP
 - **Title block:** (278, 7)–(431, 75) mm: (ISSUE DATE · REVISION · APP · WBS WAAD-BECK SYSTEMS · DRN_ · BD 23 · ENG · Mew · M520 SERIES · LICON · SWITCH BRACKET · CKD: · APP · SCALE · 520-03-007 · ISSUE · 2X
 
-Every curve, box, word and wire group: [19xx - M520 - DOC - 520-03-007 - SERIES LICON SWITCH BRACKET (traced).json](../MECHANICAL/19xx%20-%20M520%20-%20DOC%20-%20520-03-007%20-%20SERIES%20LICON%20SWITCH%20BRACKET%20(traced).json) (the CAD file: `19xx - M520 - DOC - 520-03-007 - SERIES LICON SWITCH BRACKET (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M520 - DOC - 520-03-007 - SERIES LICON SWITCH BRACKET (traced).json](../MECHANICAL/19xx%20-%20M520%20-%20DOC%20-%20520-03-007%20-%20SERIES%20LICON%20SWITCH%20BRACKET%20%28traced%29.json) (the CAD file: `19xx - M520 - DOC - 520-03-007 - SERIES LICON SWITCH BRACKET (traced).dxf`).
 
 ## Full text
 

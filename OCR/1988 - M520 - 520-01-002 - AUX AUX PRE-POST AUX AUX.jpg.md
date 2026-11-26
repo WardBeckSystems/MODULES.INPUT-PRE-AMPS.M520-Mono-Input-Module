@@ -24,7 +24,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (356, 1)–(432, 40) mm: DATE · WBS WARD-BECK SySteMB · MFR?" MODULE · MONO · FUNCTIOUA DUAGEAM · SCALE
 - **Wiring (first pass):** 152 connected wire groups from 753 runs; labelled ends: 166 mm → ABPLSTEER; 36 mm → prefade; 12 mm → ABPLSTEER; 9 mm → RchT; 8 mm → richT
 
-Every curve, box, word and wire group: [1988 - M520 - 520-01-002 - AUX AUX PRE-POST AUX AUX (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-01-002%20-%20AUX%20AUX%20PRE-POST%20AUX%20AUX%20(traced).json) (the CAD file: `1988 - M520 - 520-01-002 - AUX AUX PRE-POST AUX AUX (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - 520-01-002 - AUX AUX PRE-POST AUX AUX (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20520-01-002%20-%20AUX%20AUX%20PRE-POST%20AUX%20AUX%20%28traced%29.json) (the CAD file: `1988 - M520 - 520-01-002 - AUX AUX PRE-POST AUX AUX (traced).dxf`).
 
 ## Full text
 

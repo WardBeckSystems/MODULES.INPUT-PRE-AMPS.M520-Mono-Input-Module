@@ -25,7 +25,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Title block:** (341, 31)–(430, 47) mm: WBS · WARD-BECK SYSTEMS
 - **Wiring (first pass):** 79 connected wire groups from 605 runs, 2 dotted junctions; labelled ends: 870 mm → 18633; 772 mm → PoSTFADE, CHANNE, PRE/Post, PRE /Post; 713 mm → PRE/Post; 62 mm → LEVEL; 61 mm → LFVFL
 
-Every curve, box, word and wire group: [1988 - M520 - B 520-02-001-3 - M520 MONO INPUT MODULE - SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%20520-02-001-3%20-%20M520%20MONO%20INPUT%20MODULE%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1988 - M520 - B 520-02-001-3 - M520 MONO INPUT MODULE - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - B 520-02-001-3 - M520 MONO INPUT MODULE - SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%20520-02-001-3%20-%20M520%20MONO%20INPUT%20MODULE%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1988 - M520 - B 520-02-001-3 - M520 MONO INPUT MODULE - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

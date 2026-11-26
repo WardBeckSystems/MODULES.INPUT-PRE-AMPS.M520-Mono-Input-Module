@@ -23,7 +23,7 @@ Wiki page: [M520](../../../../PAGES/M520.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 106 connected wire groups from 1,117 runs, 3 dotted junctions
 
-Every curve, box, word and wire group: [1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%2014-077-02-001%20-%20SA14-077%20-%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/1988%20-%20M520%20-%20B%2014-077-02-001%20-%20SA14-077%20-%20CONTROL%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1988 - M520 - B 14-077-02-001 - SA14-077 - CONTROL ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
