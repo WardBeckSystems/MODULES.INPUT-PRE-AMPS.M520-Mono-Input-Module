@@ -40,6 +40,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1983 - 520-03-006 - SERIES SWITCH MOUNTING BRACKET - DRN BD - ENG MRW - ISS 1.jpg`, `1983 - 520-03-007 - SERIES LICON SWITCH BRACKET - DRN BD - ENG MRW - ISS 2.jpg`, `1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2.jpg`, `1985 - 520-03-012 - CHANNEL ON MTG. BRKT - DRN BD - ENG MRW - ISS 1.jpg`, `1989 - 520-03-004 - SERIES MODULE HEATSINK - DRN MRW - ENG MRW - ISS 3.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M520.stl`](MECHANICAL/M520.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M520)
+
+- **Size:** 72.97 × 431.8 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 25 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M520 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.17: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M520.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
