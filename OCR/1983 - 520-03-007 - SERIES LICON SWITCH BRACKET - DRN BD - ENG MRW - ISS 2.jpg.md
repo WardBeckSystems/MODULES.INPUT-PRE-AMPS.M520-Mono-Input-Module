@@ -1,5 +1,5 @@
 # 1983 - 520-03-007 - SERIES LICON SWITCH BRACKET - DRN BD - ENG MRW - ISS 2.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1983 (title block date)

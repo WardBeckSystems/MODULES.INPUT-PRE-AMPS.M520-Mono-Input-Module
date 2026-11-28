@@ -1,5 +1,5 @@
 # 1988 - M520 - B 520-04-001 - M520 MONO INPUT MODULE - MODULE LAYOUT.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1988 (module estimate (used in job))

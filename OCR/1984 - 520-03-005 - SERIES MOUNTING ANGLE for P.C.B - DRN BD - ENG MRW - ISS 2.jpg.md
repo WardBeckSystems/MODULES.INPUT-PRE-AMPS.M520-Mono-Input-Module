@@ -1,5 +1,5 @@
 # 1984 - 520-03-005 - SERIES MOUNTING ANGLE for P.C.B - DRN BD - ENG MRW - ISS 2.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1984 (title block date)

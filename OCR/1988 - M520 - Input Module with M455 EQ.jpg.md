@@ -1,5 +1,5 @@
 # 1988 - M520 - Input Module with M455 EQ.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1988 (module estimate (used in job))

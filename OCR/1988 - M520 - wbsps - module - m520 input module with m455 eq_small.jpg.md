@@ -1,5 +1,5 @@
 # 1988 - M520 - wbsps - module - m520 input module with m455 eq_small.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1988 (module estimate (used in job))

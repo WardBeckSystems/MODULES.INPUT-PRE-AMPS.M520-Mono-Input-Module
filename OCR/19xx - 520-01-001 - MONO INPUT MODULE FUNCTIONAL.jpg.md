@@ -1,5 +1,5 @@
 # 19xx - 520-01-001 - MONO INPUT MODULE FUNCTIONAL.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** unknown (title block (read by eye))

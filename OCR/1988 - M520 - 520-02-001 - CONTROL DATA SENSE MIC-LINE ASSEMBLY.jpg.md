@@ -1,5 +1,5 @@
 # 1988 - M520 - 520-02-001 - CONTROL DATA SENSE MIC-LINE ASSEMBLY.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1988 (module estimate (used in job))

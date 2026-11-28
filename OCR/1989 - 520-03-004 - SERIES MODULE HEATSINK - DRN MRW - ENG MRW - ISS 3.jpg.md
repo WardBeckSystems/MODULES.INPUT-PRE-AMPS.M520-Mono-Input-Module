@@ -1,5 +1,5 @@
 # 1989 - 520-03-004 - SERIES MODULE HEATSINK - DRN MRW - ENG MRW - ISS 3.jpg
-Wiki page: [M520](../../../../PAGES/M520.md)
+Wiki page: [M520](../)
 
 
 - **Year:** 1989 (title block date)
